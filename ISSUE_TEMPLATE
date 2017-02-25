@@ -30,12 +30,15 @@
 
 
 
+
+<!-- For Project Setup Only -->
+
 <!-- # Standard Labels 
 
 (Optional Sticky)
 
 Sticky - BLOCKED						#212121
-Sticky - KEEP OPEN						#FFEB3B
+Sticky - KEEP OPEN					#FFEB3B
 
 (Required Priority to move out of New Issue)
 
@@ -46,14 +49,14 @@ Priority - 4 Low						#03A9F4
 
 (Required Type to move out of New Issue)
 
-Type - Copy Writing						#FFF9C4
+Type - Copy Writing					#FFF9C4
 Type - Defect							#FFCDD2
-Type - Enhancement						#BBDEFB
+Type - Enhancement					#BBDEFB
 Type - Misc Task						#CFD8DC
-Type - New Feature						#C8E6C9
-Type - Question							#E1BEE7
+Type - New Feature					#C8E6C9
+Type - Question						#E1BEE7
 Type - Refactoring						#FFE0B2
-Type - Research							#D1C4E9
+Type - Research						#D1C4E9
 Type - UX Design						#B2DFDB
 Type - Visual Design					#B3E5FC
 
