@@ -1,45 +1,77 @@
-<!-- Issues Template v1.0 -->
-
-## Issue Workflow
-<!-- This section is to help the Product Management team ensure the issue is properly documented before handing off to development. -->
-
-- [x] Issue ready for Project Manager Review by @PROJECTMANAGER
-- [ ] Issue ready for Estimation
-- [ ] Issue ready for Prioritization & Approval by @CLIENT
+<!-- PROJECT NAME- Issues Template v1.0 -->
 
 ## User Story
+<!-- As a (PERSONA), I (NEED OR WANT) to (ABILITY OR ACTION), in order to (BENEFIT). -->
 
-As a (PERSONA), I (NEED OR WANT) to (ABILITY OR ACTION), in order to (BENEFIT). 
 
-## Steps to Test / Reproduce
+## Steps to Reproduce / Test
+<!-- As a (PERSONA / SPECIFIC USER) on (DEVICE / BROWSER) follow these steps... -->
 
-As a (PERSONA / SPECIFIC USER) on (DEVICE / BROWSER) follow these steps... 
-
-1. None identified at this time.
 
 ## Annotated Wireframes / Screenshots
 <!-- Are there any UX wireframes or Visual Design components related to this Issue? -->
 
 
-
 ## Acceptance Criteria / Expected Behavior
 <!-- Do any of the form fields have error checking or are any of the form fields required? Is there any other business logic or other criteria needed that may not be apparent in the wireframe? -->
 
-* ...
 
 ## Special Testing Needs
 <!-- Do we need to pull in any special test data, or let this issue sit for a while, or run some 3rd party service before testing this issue? -->
 
-- [x] None identified at this time.
 
 ## Dependencies
-<!-- Are there other GitHub Issues or other tasks that need to be completed before work begins? -->
+<!-- Are there other GitHub Issues or other tasks that need to be completed before work begins? Please use to-do formatting. -->
 
-- [x] None identified at this time.
 
 ## Other Notes / Files
-<!-- Original emails from the client? Links to relevant Slack Conversations? Documents? -->
+<!-- Original emails from the client? Links to relevant Slack Conversations? Documents? Please use to-do formatting. -->
 
-# Proposed Task List
 
-- [ ] ...
+
+
+<!-- # Standard Labels 
+
+(Optional Sticky)
+
+Sticky - BLOCKED						#212121
+Sticky - KEEP OPEN						#FFEB3B
+
+(Required Priority to move out of New Issue)
+
+Priority - 1 Show Stopper				#D32F2F	
+Priority - 2 Important					#F44336
+Priority - 3 Average					#3F51B5
+Priority - 4 Low						#03A9F4
+
+(Required Type to move out of New Issue)
+
+Type - Copy Writing						#FFF9C4
+Type - Defect							#FFCDD2
+Type - Enhancement						#BBDEFB
+Type - Misc Task						#CFD8DC
+Type - New Feature						#C8E6C9
+Type - Question							#E1BEE7
+Type - Refactoring						#FFE0B2
+Type - Research							#D1C4E9
+Type - UX Design						#B2DFDB
+Type - Visual Design					#B3E5FC
+
+-->
+
+<!-- # Standard Status Columns
+
+New Issues
+Ready for Prioritization 
+Backlog
+In Progress
+Code Review
+Ready for Staging
+QA on Staging
+UAT on Staging
+Ready for Production
+QA on Production
+UAT on Production
+(Closed)
+
+-->
