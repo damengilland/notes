@@ -35,30 +35,24 @@
 
 <!-- # Standard Labels 
 
-(Optional Sticky)
+Priority - 1 Show Stopper	#b71c1c
+Priority - 2 Important	#01579B
+Priority - 3 Average	#03A9F4
+Priority - 4 Low	#B3E5FC
 
-Sticky - BLOCKED					#212121
-Sticky - KEEP OPEN					#FFEB3B
+Sticky - BLOCKED	#212121
+Sticky - KEEP OPEN	#FFEB3B
 
-(Required Priority to move out of New Issue)
-
-Priority - 1 Show Stopper				#D32F2F	
-Priority - 2 Important					#F44336
-Priority - 3 Average					#3F51B5
-Priority - 4 Low					#03A9F4
-
-(Required Type to move out of New Issue)
-
-Type - Copy Writing					#FFF9C4
-Type - Defect						#FFCDD2
-Type - Enhancement					#BBDEFB
-Type - Misc Task					#CFD8DC
-Type - New Feature					#C8E6C9
-Type - Question						#E1BEE7
-Type - Refactoring					#FFE0B2
-Type - Research						#D1C4E9
-Type - UX Design					#B2DFDB
-Type - Visual Design					#B3E5FC
+Type - Copy Writing	#FFF9C4
+Type - Defect	#ffcdd2
+Type - Enhancement	#B3E5FC
+Type - Meeting Notes	#B2DFDB
+Type - Miscellaneous Task	#CFD8DC
+Type - New Functionality	#DCEDC8
+Type - Question	#E1BEE7
+Type - Refactoring	#FFE0B2
+Type - Research	#D7CCC8
+Type - Visual Design	#C5CAE9
 
 -->
 
